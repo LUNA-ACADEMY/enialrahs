@@ -10,8 +10,8 @@ export LC_ALL="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 cd ~
 
-echo 'EDXAPP_LMS_BASE: "enialrash.org"' >> config.yml
-echo 'EDXAPP_CMS_BASE: "studio.enialrash.org"' >> config.yml
+echo 'EDXAPP_LMS_BASE: "sawdasedsq.org"' >> config.yml
+echo 'EDXAPP_CMS_BASE: "studio.sawdasedsq.org"' >> config.yml
 
 export OPENEDX_RELEASE=open-release/ironwood.master
 
